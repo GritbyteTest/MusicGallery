@@ -1,0 +1,44 @@
+{
+    "Hotfeed" :
+    [
+        {
+            "text" : "Hotfeed1",
+            "imageUrl" : "https://drive.google.com/uc?export=download&id=1iIjFspr89mWCORPycALqtorDgSKNVe1w"
+        },
+        {
+            "text" : "Hotfeed2",
+            "imageUrl" : "https://drive.google.com/uc?export=download&id=1wHsOG5ZJjLekPZPtiS09DMvIyGv2D4A6"
+        },
+        {
+            "text" : "Hotfeed3",
+            "imageUrl" : "https://drive.google.com/uc?export=download&id=1h_0ywbeuCyf6-IQZ_bf9TuRBN4zjGscP"
+        },
+        {
+            "text" : "Hotfeed4",
+            "imageUrl" : "https://drive.google.com/uc?export=download&id=1FDG5cQKi2r7w8aFBzShi9QvR3Hd5kl8I"
+        },
+        {
+            "text" : "Hotfeed5",
+            "imageUrl" : "https://drive.google.com/uc?export=download&id=1xG33fF8Q9_ktEADNYhQjPyGNWBs1Vcg3"
+        }
+    ],
+    "Movies" :
+    [
+        {
+            "movieName" : "RHJ City Winery v1",
+            "movieThumbnail" : "https://drive.google.com/uc?export=download&id=1Ero6uEOpWf7_B6_5EEzaYyo7dcKcJoaK",
+            "movieUrl" : "https://www.youtube.com/watch?v=BixuTM_f4so"
+        },
+        {
+            "movieName" : "movie2",
+            "movieThumbnail" : "https://drive.google.com/uc?export=download&id=1ovqzrOi57xJM5TTRYXZnV5EnaIezeQlL",
+            "movieUrl" : "https://www.youtube.com/watch?v=TiEVqZ2Bc_c"
+        },
+        {
+            "movieName" : "movie3",
+            "movieThumbnail" : "https://drive.google.com/uc?export=download&id=1MAwWEXEmOYzLBgXyaw0yy6zO-zfNC8xe",
+            "movieUrl" : "https://www.youtube.com/watch?v=GUg6y9Uf8Fg"
+        }
+    ]
+}
+
