@@ -7,19 +7,19 @@
         },
         {
             "text" : "Hotfeed2",
-            "imageUrl" : "https://drive.google.com/uc?export=download&id=1wHsOG5ZJjLekPZPtiS09DMvIyGv2D4A6"
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-MaydayMayday_scaled.jpg?raw=true"
         },
         {
             "text" : "Hotfeed3",
-            "imageUrl" : "https://drive.google.com/uc?export=download&id=1h_0ywbeuCyf6-IQZ_bf9TuRBN4zjGscP"
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-NaturesSanctuary_scaled.jpg?raw=true"
         },
         {
             "text" : "Hotfeed4",
-            "imageUrl" : "https://drive.google.com/uc?export=download&id=1FDG5cQKi2r7w8aFBzShi9QvR3Hd5kl8I"
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-RaysOfGrace_scaled.jpg?raw=true"
         },
         {
             "text" : "Hotfeed5",
-            "imageUrl" : "https://drive.google.com/uc?export=download&id=1xG33fF8Q9_ktEADNYhQjPyGNWBs1Vcg3"
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Daanoe-IndustrialLight_scaled.jpg?raw=true"
         }
     ],
     "Movies" :
@@ -31,12 +31,12 @@
         },
         {
             "movieName" : "movie2",
-            "movieThumbnail" : "https://drive.google.com/uc?export=download&id=1ovqzrOi57xJM5TTRYXZnV5EnaIezeQlL",
+            "movieThumbnail" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Thumbnail2.png?raw=true",
             "movieUrl" : "https://www.youtube.com/watch?v=TiEVqZ2Bc_c"
         },
         {
             "movieName" : "movie3",
-            "movieThumbnail" : "https://drive.google.com/uc?export=download&id=1MAwWEXEmOYzLBgXyaw0yy6zO-zfNC8xe",
+            "movieThumbnail" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Thumbnail3.png?raw=true",
             "movieUrl" : "https://www.youtube.com/watch?v=GUg6y9Uf8Fg"
         }
     ]
